@@ -227,6 +227,14 @@ section[id] {
 
 /* PROJECTS */
 
+.img-hypoorbit{
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  width: 300px;
+  justify-self: center;
+}
+
 .projects-content {
   display: flex;
   flex-wrap: wrap;
